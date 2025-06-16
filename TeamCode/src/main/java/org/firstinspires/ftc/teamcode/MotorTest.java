@@ -32,6 +32,7 @@ public class MotorTest extends OpMode {
         leftlift.setDirection(DcMotor.Direction.REVERSE);
     }
 
+
     @Override
     public void loop() {
         if (1 == 1){
